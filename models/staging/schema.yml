@@ -3,10 +3,10 @@ version: 2
 models:
   - name: my_test
     columns:
-      - name: Amount
+      - name: amount
       - name: subject
-      - name: Due_DATE
-      
+      - name: due_date
+
   - name: stg_customers
     columns:
       - name: customer_id

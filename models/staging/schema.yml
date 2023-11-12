@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: my_test
+  - name: stg_my_test
     columns:
       - name: amount
       - name: subject
